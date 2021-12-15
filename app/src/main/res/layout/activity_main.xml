@@ -14,19 +14,32 @@
         android:textColor="@color/purple_700"
         android:textSize="52dp" />
 
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:outlineAmbientShadowColor="@color/purple_200" />
+
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hi"
-        android:textColor="@color/teal_200" />
+        android:textColor="@color/teal_200"
+        android:textColorHighlight="@color/white" />
 
     <CheckBox
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:shadowColor="@color/black" />
+
     <CalendarView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content" />
 
+    <ToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:shadowColor="@color/purple_500"/>
 
 
 </LinearLayout>
