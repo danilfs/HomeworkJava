@@ -9,42 +9,38 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="text"
-        android:hint="text"/>
+        android:hint="text"
+        android:inputType="text" />
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:hint="textPersonName"/>
+        android:hint="textPersonName"
+        android:inputType="textPersonName" />
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="phone"
-        android:hint="phone"/>
+        android:hint="phone"
+        android:inputType="phone" />
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="number"
-        android:hint="number"/>
+        android:hint="number"
+        android:inputType="number" />
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textPassword"
-        android:hint="textPassword"/>
+        android:hint="textPassword"
+        android:inputType="textPassword" />
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textEmailAddress"
-        android:hint="textEmailAddress"/>
+        android:hint="textEmailAddress"
+        android:inputType="textEmailAddress" />
 
 
-
-
-
-
-    </LinearLayout>
+</LinearLayout>
